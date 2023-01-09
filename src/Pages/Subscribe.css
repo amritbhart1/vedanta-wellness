@@ -1,0 +1,66 @@
+.horizontal-rule{
+    border-bottom-width: 2px !important;
+    border-color: #0B8140 !important;
+    width: 270px !important;
+}
+
+.subs{
+  margin-left: 3px !important;
+  bottom: 10px !important;
+  text-align: left;
+  
+}
+
+.subscribe{
+    text-align: left;
+    max-width: 94%;
+    margin:0px auto;
+    display: block;
+    max-height: 12rem;
+    margin-bottom: -17rem;
+}
+
+.newsletter{
+   color:#0B8140 
+}
+
+.btn{
+    color: #ffff !important;
+    background-color: #0B8140;
+    margin-right:180px;
+    margin-top: 10px;
+    width: 120px;
+}
+
+
+.email{
+    width: 32rem;
+    height: 3rem;
+}
+
+.form{
+    text-align: right;
+    margin-right: 10px;
+    display: flex !important;
+    
+}
+
+.email-label{
+    margin-right: 14rem;
+}
+
+.nws-left{
+ float:left
+}
+
+.nws-right{
+ float: right;
+}
+
+/* .form-last{
+float:right
+}
+
+.subs{
+ float:left
+} */

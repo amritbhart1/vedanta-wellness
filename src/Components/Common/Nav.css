@@ -1,0 +1,89 @@
+.navbar{
+    color: green;
+    background-color: green;
+    overflow: hidden;
+    height: 40px;
+    margin-top: 40px;
+    border-width: 2px;
+}
+
+.socialmedia{
+    margin-top: -69px;
+}
+
+
+
+.links{
+    color:brown;
+    margin-left: -1050px!important;
+    margin-top: 10px;
+}
+
+.nav-2{
+    background-color: aqua;
+    height: 50px;
+    width: auto;
+    margin-top: auto;
+}
+
+
+.link-1 {
+    color:#fff !important;
+
+ }
+
+.link-2{
+    color: white;
+    margin-left: 35px !important;
+}
+
+.link-3{
+    color:white !important;
+    margin-left: 35px !important;
+}
+
+
+.twitter{
+    color:white;
+    justify-content: center;
+    
+}
+
+
+.icon{
+    color:white;
+    justify-content: space-between;
+    margin-right: 2rem;
+}
+
+.icons{
+    position:left;
+    align-items: left;
+    justify-content: left;
+    margin-left:"-50px";
+}
+
+
+.btn{
+    height: 30px;
+    width: 200px !important;
+    color: white !important;
+    background-color: green!important;
+    font-weight: 200;
+    
+}
+
+
+
+.other{
+    margin:"12px";
+    color: black;
+    margin-top: 12%;
+}
+
+
+.navbar-full{
+    display: block !important;
+    position:fixed !important
+
+}

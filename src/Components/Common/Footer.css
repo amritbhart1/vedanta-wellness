@@ -1,0 +1,89 @@
+.hr{ 
+    color: '#000000';
+    background-color: grey;
+    color:grey;
+    height: .5;
+    width: auto;
+    margin-top:900px;
+    
+} 
+
+.row{
+    flex-wrap: wrap 
+}
+
+.ul{
+    list-style: none;
+}
+
+
+.link{
+ color: grey !important;
+ text-decoration: none !important;
+ list-style: none;
+}
+
+h4{
+    text-align: left;
+    margin-left: 30px !important;
+}
+
+.list-1{
+list-style: none;
+color: grey;
+text-align: left;
+}
+
+
+.list{
+list-style: none;
+color: grey;
+}
+
+
+.footer{
+    color:grey;
+    text-align: left;
+    margin-left: 5rem;
+    font-size:15px;
+    list-style: none;
+    background-color: white;
+    width: 100%;
+    margin-left: auto;
+    position: relative;
+    bottom: -850px !important;
+
+}
+
+
+.footer-first{
+    /* background-color: rgb(214, 200, 200); */
+    background-image: url("/images/gradientimage.jpg");
+    width: 100%;
+    position: absolute;
+    bottom: -700px;
+    overflow: hidden;
+    padding: 5px;
+    padding-top: 15px;
+}
+
+.footer-last{
+    text-align: left;
+    margin-left: 2rem;
+    color: grey;
+}
+
+h4{
+    color: #0B8140;
+    margin-left: 35px;
+}
+
+
+
+.footer-col{
+    width: 22% ;
+    padding: 0;
+    margin-left: 2rem;
+}
+
+

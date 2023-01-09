@@ -1,0 +1,117 @@
+.navbar-first{
+    background-color:#0B8140 !important;
+    width: 100%;
+    min-height: 44px;
+    margin-top: auto;
+    gap:0px;
+    position: relative;
+    overflow: hidden;
+}
+
+.navbar-full{
+    /* position: relative; */
+    position: sticky;
+    
+    bottom: -100rem !important;
+}
+
+
+.Button{
+    color: black !important;
+}
+
+.btn-text{
+ font-weight: 500 !important;
+ text-align: center;
+ font-size: 15px;
+}
+
+
+.scn-btn{
+    height: 42px;
+    width: 200px;
+    background-color: #0B8140 !important;
+    color: white !important;
+    justify-items:right !important;
+    align-items: flex-end;
+    font-size: small;
+    font-weight: 300 !important;
+    padding: 8px 20px;
+    border-radius: 3px;
+}
+
+.navfirst-icons{
+    margin-right: 5px;
+    height:16px !important
+}
+
+.socialmedia-icon{
+  align-items: right;
+  justify-content: right !important;
+  margin: auto;
+  margin-top: 8px;
+}
+
+
+.Number{
+    font-size: 15px !important;
+    position: relative;
+    padding: auto;
+    margin-top: -14px!important;
+ }
+
+ .Sentence{
+  margin-left: 34px !important;
+  font-size: 15px !important;
+  margin-top: -14px!important;
+
+}
+
+.Email{
+    margin-left: 34px !important;
+    font-size: 15px !important;
+    margin-top: -14px!important;
+}
+
+
+.left-icons{
+margin-left: 70px;
+}
+
+.socialmedia-icon{
+    margin-right:40px;
+}
+
+
+.facebook{
+ font-size: 15px !important;
+}
+
+.twitter{
+    margin-left: -25px !important;
+    font-size: 15px !important;
+
+}
+
+.linkedinin{
+   margin-left: -25px !important;
+   font-size: 15px !important;
+}
+
+
+.second-nav{
+    color: black !important;
+    background:white !important;
+    height: 80px;
+    margin-top:0px;
+    position:absolute;
+    justify-content: left;
+    top: 0;
+    overflow: hidden;
+
+}
+
+.css-11b3ww9-MuiPaper-root-MuiAppBar-root{
+    position: relative !important;
+    margin-top: 0px !important;
+}
