@@ -101,6 +101,7 @@ function Footer() {
                  <ul className='list'>
                   <li>tdfhd</li>
                </ul>
+               
              </Box>
           </Box>
       </Box>
